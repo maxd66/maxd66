@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jobbee](https://github.com/zzangu0215/jobbee)
 
-- 🌱 I’m currently learning **C#, because I like the pain**
+- 🌱 I’m currently learning **Vue.js, TypeScript, and C#, because I like the pain**
 
 - 👨‍💻 All of my projects are available at [https://mdd-portfolio.herokuapp.com/](https://mdd-portfolio.herokuapp.com/)
 
