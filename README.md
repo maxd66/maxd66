@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxd66&label=Profile%20views&color=0e75b6&style=flat" alt="maxd66" /> </p>
 
-- 🔭 I’m currently working on [Jobbee](https://github.com/zzangu0215/jobbee)
+- 🔭 I’m currently working on [Valorant Random](https://github.com/maxd66/valorant-random)
 
 - 🌱 I’m currently learning **Vue.js, TypeScript, and C#, because I like the pain**
 
