@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxd66&label=Profile%20views&color=0e75b6&style=flat" alt="maxd66" /> </p>
 
-- 🔭 I’m currently working on [Valorant Random](https://github.com/maxd66/valorant-random)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/maxd66/advanced-portfolio)
 
-- 🌱 I’m currently learning **Vue.js, TypeScript, and C#, because I like the pain**
+- 🌱 I’m currently learning **to Master the MERN stack, and C#, because I like the pain**
 
 - 👨‍💻 All of my projects are available at [https://mdd-portfolio.herokuapp.com/](https://mdd-portfolio.herokuapp.com/)
 
